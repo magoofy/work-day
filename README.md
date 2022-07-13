@@ -1,6 +1,6 @@
 # Work Day Scheduler
 
-<img src="./develop/images/app-sc.jpg" alt="screenshot of app"/>
+<img src="./Develop/images/app-sc.jpg" alt="screenshot of app"/>
 
 ## Description
 
